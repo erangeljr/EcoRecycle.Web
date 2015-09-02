@@ -6,9 +6,8 @@
     line-height: 1;
     color:#fff;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
     margin:auto;
-    background-image: url("../fonts/bottle_48x48.svg");
+    background: url("../fonts/bottle_48x48.svg") center no-repeat;
 }
 
 .plastics
@@ -19,9 +18,8 @@
     line-height: 1;
     color:#fff;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
     margin:auto;
-    background-image: url("../fonts/bottle_plastic_48x48.svg");
+    background: url("../fonts/bottle_plastic_48x48.svg")  center no-repeat;;
 }
 
 .glass-bottle
@@ -32,7 +30,6 @@
     line-height: 1;
     color:#fff;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
     margin:auto;
-    background-image: url("../fonts/bottle_glass_48x48.svg");
+    background: url("../fonts/bottle_glass_48x48.svg")  center no-repeat;;
 }
