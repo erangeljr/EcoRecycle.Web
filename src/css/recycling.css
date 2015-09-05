@@ -7,7 +7,7 @@
     color:#fff;
     -webkit-font-smoothing: antialiased;
     margin:auto;
-    background: url("../fonts/bottle_48x48.svg") center no-repeat;
+    background: url("../fonts/bottle.svg") center no-repeat;
 }
 
 .plastics
@@ -19,7 +19,7 @@
     color:#fff;
     -webkit-font-smoothing: antialiased;
     margin:auto;
-    background: url("../fonts/bottle_plastic_48x48.svg")  center no-repeat;;
+    background: url("../fonts/bottle_plastic.svg")  center no-repeat;;
 }
 
 .glass-bottle
@@ -31,5 +31,5 @@
     color:#fff;
     -webkit-font-smoothing: antialiased;
     margin:auto;
-    background: url("../fonts/bottle_glass_48x48.svg")  center no-repeat;;
+    background: url("../fonts/bottle_glass.svg")  center no-repeat;;
 }
